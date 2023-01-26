@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5",
+    "outDir": "dist",
+    "lib": ["DOM", "ES2021"],
+    "downlevelIteration": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}

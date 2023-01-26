@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chrome-types": "^0.1.164",
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  }
+}
